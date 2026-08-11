@@ -1,2 +1,3 @@
 # Atividade 01
-Contém o código "Hello World"
+Este código cria a estrutura básica de uma página web HTML, exibindo o título **"Meu Primeiro Hello World"** na aba do navegador e a mensagem **"Olá, Mundo!"** em destaque no corpo da página.
+
